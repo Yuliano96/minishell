@@ -1,0 +1,9 @@
+# Build outputs
+/obj/
+/minishell
+*.o
+*.a
+
+# Crash dumps
+core
+core.*
