@@ -110,7 +110,3 @@ This describes our main areas of work rather than exclusive ownership of every f
 - Understanding how quoting affects variable expansion.
 - Managing dynamically allocated structures and their cleanup.
 - Integrating components and sharing responsibilities in a C team project.
-
-## Additional Documentation
-
-The original Spanish README is preserved unchanged in [Bash study notes](docs/BASH_NOTES.md). Those notes discuss Bash concepts and project requirements; they should not be treated as a list of features implemented by this shell.
